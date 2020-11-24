@@ -1,7 +1,7 @@
 package me.dhk.feedcombiner.service;
 
-import me.dhk.feedcombiner.api.WebcomicFeedBuilderStrategy;
 import me.dhk.feedcombiner.api.RssFeedBuilderStrategy;
+import me.dhk.feedcombiner.api.WebcomicFeedBuilderStrategy;
 import me.dhk.feedcombiner.model.ResultFeed;
 import org.junit.jupiter.api.Test;
 
